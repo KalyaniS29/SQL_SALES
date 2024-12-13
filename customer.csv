@@ -1,0 +1,12 @@
+CUSTOMER-3,,
+CustomerID,CustomerName,Segment
+CUST001,John Doe,Consumer
+CUST002,Jane Smith,Corporate
+CUST003,Bob Johnson,Consumer
+CUST004,Mary Williams,Corporate
+CUST005,Steve Brown,Consumer
+CUST006,Susan Clark,Home Office
+CUST007,Michael King,Corporate
+CUST008,David Lee,Consumer
+CUST009,Patricia Davis,Home Office
+CUST010,Daniel Walker,Consumer

@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,SubCategory
+PROD001,Laptop,Technology,Computers
+PROD002,Desk,Furniture,Office Furniture
+PROD003,Office Chair,Furniture,Office Furniture
+PROD004,Smartphone,Technology,Mobile Phones
+PROD005,Printer,Technology,Office Machines
+PROD006,Notebook,Office Supplies,Stationery
+PROD007,Keyboard,Technology,Accessories
+PROD008,Monitor,Technology,Computers
+PROD009,File Cabinet,Furniture,Office Furniture
+PROD010,Pen,Office Supplies,Stationery
